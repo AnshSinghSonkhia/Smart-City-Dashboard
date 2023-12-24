@@ -9,6 +9,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/anshsinghsonkhia/) for updat
 [![Issues](https://img.shields.io/github/issues/AnshSinghSonkhia/Smart-City-Dashboard)](https://github.com/AnshSinghSonkhia/Smart-City-Dashboard/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AnshSinghSonkhia/Smart-City-Dashboard/pulls)
 
+![JWoC 2024](https://www.jwoc.tech/_next/static/media/jwoc-2024.652c49b8.svg)
+
 ## Project Overview
 
 The Smart City Dashboard Project aims to build a comprehensive dashboard that aggregates real-time data from various sources within a city. This includes traffic conditions, weather updates, and information on public services. The goal is to provide valuable insights for city planning, helping officials make informed decisions for efficient city management.
