@@ -2,6 +2,8 @@
 
 Welcome to the Smart City Dashboard Project for JWoC 2024! 🏙️
 
+Follow me on [LinkedIn](https://www.linkedin.com/in/anshsinghsonkhia/) for updates and more projects!
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![JWoC](https://img.shields.io/badge/participant-JWoC2024-yellow.svg)](https://jwoc.jgec.ac.in/)
 [![Issues](https://img.shields.io/github/issues/AnshSinghSonkhia/Smart-City-Dashboard)](https://github.com/AnshSinghSonkhia/Smart-City-Dashboard/issues)
@@ -21,6 +23,14 @@ In the context of urban development, there is a need for efficient city planning
 - Current weather updates
 - Information on public services
 - Data visualization for easy interpretation
+
+## Mentors
+
+### Ansh Singh Sonkhia
+
+LinkedIn Top AI & UX Voice | Co-Founder, Internglobally | Product Strategist & Founding Member, MentorHeal | Software Engineer, IdeaLAB | UI/UX Product Designer
+
+![Mentor Photo](https://avatars.githubusercontent.com/u/110414565?s=96&v=4)
 
 ## Code of Conduct
 
