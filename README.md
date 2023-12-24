@@ -15,6 +15,9 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/anshsinghsonkhia/) for updat
 
 The Smart City Dashboard Project aims to build a comprehensive dashboard that aggregates real-time data from various sources within a city. This includes traffic conditions, weather updates, and information on public services. The goal is to provide valuable insights for city planning, helping officials make informed decisions for efficient city management.
 
+The dashboard should integrate data from APIs related to traffic, weather, and public services to provide city planners and officials with valuable insights for informed decision-making.
+
+
 ## Problem Statement
 
 In the context of urban development, there is a need for efficient city planning and management. The Smart City Dashboard addresses this by integrating data from different APIs, providing a centralized platform for city planners to analyze and interpret information.
