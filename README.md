@@ -26,6 +26,18 @@ In the context of urban development, there is a need for efficient city planning
 - Information on public services
 - Data visualization for easy interpretation
 
+### Tech-Stack
+
+- Next.js
+- TailwindCSS
+- JavaScript / TypeScript
+- **D3.js** or **Chart.js** for dynamic charts and graphs
+- **Node.js** with **Express.js** for a lightweight and fast backend
+- MongoDB
+- **Python** for data processing tasks using libraries like **Pandas** and **NumPy**
+
+> Note: You can use additional technologies for the benefit of the project.
+
 ## Mentors
 
 ### Ansh Singh Sonkhia
