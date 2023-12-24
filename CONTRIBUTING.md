@@ -10,4 +10,4 @@ Thank you for considering contributing to the Smart City Dashboard Project! We w
 
 ```bash
 git clone https://github.com/AnshSinghSonkhia/Smart-City-Dashboard.git
-cd smart-city-dashboard
+cd Smart-City-Dashboard
