@@ -59,12 +59,13 @@ We welcome contributions from everyone! Before getting started, please read our 
 
 ### Getting Started
 
-1. Fork the repository.
+1. Star & Fork the repository.
 2. Clone the forked repository to your local machine.
 3. Create a new branch for your changes.
-4. Make your changes and commit them.
-5. Push the changes to your fork.
-6. Submit a pull request.
+4. Create a new folder with your name.
+5. Add your project files in your folder and commit them.
+6. Push the changes to your fork.
+7. Submit a pull request.
 
 ### Guidelines
 
